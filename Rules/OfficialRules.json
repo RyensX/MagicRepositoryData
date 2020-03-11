@@ -1,0 +1,54 @@
+{
+	"name": "测试数据",
+	"version": 1,
+	"ruleList": [{
+			"enable": true,
+			"name": "网易云",
+			"operaSize": 1,
+			"operas": "开屏广告@1@android.widget.FrameLayout|com.netease.cloudmusic.activity.LoadingActivity@TEXT@跳过@0",
+			"packageName": "com.netease.cloudmusic"
+		},
+		{
+			"enable": true,
+			"name": "米游社",
+			"operaSize": 1,
+			"operas": "开屏广告@1@com.mihoyo.hyperion.ui.SplashActivity@TEXT@跳过@0",
+			"packageName": "com.mihoyo.hyperion"
+		},
+		{
+			"enable": true,
+			"name": "贴吧v8.9.8.0",
+			"operaSize": 3,
+			"operas": "原生广告1@1@*@ID@com.baidu.tieba:id/ad_close_view@500$原生广告2@1@*@TEXT@不感兴趣@0$原生广告3@1@*@TEXT@确定@0",
+			"packageName": "com.baidu.tieba"
+		},
+		{
+			"enable": true,
+			"name": "知乎",
+			"operaSize": 1,
+			"operas": "开屏广告1@1@android.widget.FrameLayout|com.zhihu.android.app.ui.activity.LauncherActivity@TEXT@跳过@500",
+			"packageName": "com.zhihu.android"
+		},
+		{
+			"enable": true,
+			"name": "微信",
+			"operaSize": 3,
+			"operas": "关闭朋友圈新动态1@1@com.tencent.mm.plugin.sns.ui.SnsTimeLineUI@ID@com.tencent.mm:id/f34@500$关闭朋友圈新动态2@1@com.tencent.mm.plugin.sns.ui.SnsTimeLineUI@ID@com.tencent.mm:id/fb4@0$自动登陆电脑@1@com.tencent.mm.plugin.webwx.ui.ExtDeviceWXLoginUI@ID@com.tencent.mm:id/beb@0",
+			"packageName": "com.tencent.mm"
+		},
+		{
+			"enable": true,
+			"name": "小米商城",
+			"operaSize": 1,
+			"operas": "启动广告@1@com.xiaomi.shop.activity.MainTabActivity@ID@com.xiaomi.shop:id/skip@0",
+			"packageName": "com.xiaomi.shop"
+		},
+		{
+			"enable": true,
+			"name": "小米音乐",
+			"operaSize": 1,
+			"operas": "启动广告@1@com.miui.player.splash.SplashActivity@ID@com.miui.player:id/skip@0",
+			"packageName": "com.miui.player"
+		}
+	]
+}
