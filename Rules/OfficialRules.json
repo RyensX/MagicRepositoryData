@@ -20,7 +20,7 @@
 		{
 			"enable": true,
 			"author": "Ryens",
-			"name": "贴吧v8.9.8.0",
+			"name": "贴吧",
 			"operaSize": 3,
 			"operas": "原生广告1@1@*@ID@com.baidu.tieba:id/ad_close_view@500$原生广告2@1@*@TEXT@不感兴趣@0$原生广告3@1@*@TEXT@确定@0",
 			"packageName": "com.baidu.tieba"
