@@ -20,7 +20,7 @@
 		"name": "微信",
 		"author": "Ryens",
 		"operaSize": 1,
-		"operas": "自动登陆电脑@1@com.tencent.mm.plugin.webwx.ui.ExtDeviceWXLoginUI@ID@com.tencent.mm:id/beb@0",
+		"operas": "自动确认登录@1@com.tencent.mm.plugin.webwx.ui.ExtDeviceWXLoginUI@TEXT@登录@0",
 		"packageName": "com.tencent.mm"
 	}, {
 		"enable": true,
