@@ -71,6 +71,18 @@
 		"operaSize": 2,
 		"operas": "启动广告@1@tv.danmaku.bili.ui.splash.SplashActivity@ID@tv.danmaku.bili:id/count_down@0$青少年模式@1@com.bilibili.teenagersmode.ui.TeenagersModeDialogActivity@ID@tv.danmaku.bili:id/text3@0",
 		"packageName": "tv.danmaku.bili"
+	}, {
+		"enable": true,
+		"name": "小黑盒",
+		"operaSize": 0,
+		"operas": "启动广告@1@com.max.xiaoheihe.SplashActivity@ID@com.max.xiaoheihe:id/ll_skip_ads@0",
+		"packageName": "com.max.xiaoheihe"
+	}, {
+		"enable": true,
+		"name": "异次元",
+		"operaSize": 0,
+		"operas": "启动广告@1@com.wsw.cospa.SplashActivity@TEXT@跳过@0",
+		"packageName": "com.wsw.cospa"
 	},{
 		"enable": true,
 		"name": "Keep",
