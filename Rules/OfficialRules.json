@@ -71,5 +71,96 @@
 		"operaSize": 2,
 		"operas": "启动广告@1@tv.danmaku.bili.ui.splash.SplashActivity@ID@tv.danmaku.bili:id/count_down@0$青少年模式@1@com.bilibili.teenagersmode.ui.TeenagersModeDialogActivity@ID@tv.danmaku.bili:id/text3@0",
 		"packageName": "tv.danmaku.bili"
+	},{
+		"enable": true,
+		"name": "Keep",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.gotokeep.keep.splash.SplashActivity@ID@com.gotokeep.keep:id/layout_skip@0",
+		"packageName": "com.gotokeep.keep"
+	},{
+		"enable": true,
+		"name": "瑞幸咖啡",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.lucky.luckyclient.splash.boot.BootAdvertActivity@ID@com.lucky.luckyclient:id/tv_skip@0$升级提示@1@com.lucky.lib.update.UpdateActivity@ID@com.lucky.luckyclient:id/dismiss_btn@0",
+		"packageName": "com.lucky.luckyclient"
+	},{
+		"enable": true,
+		"name": "雪球股票",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.xueqiu.android.common.splash.SplashActivity@ID@com.xueqiu.android:id/tv_skip@0$升级提示@1@com.xueqiu.android.common.UpdateDialogActivity@ID@com.xueqiu.android:id/image_cancel@0",
+		"packageName": "com.xueqiu.android"
+	},{
+		"enable": true,
+		"name": "滴滴出行",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "中间推荐@1@android.app.Dialog@ID@com.sdu.didi.psnger:id/popClose@0",
+		"packageName": "com.sdu.didi.psnger"
+	},{
+		"enable": true,
+		"name": "联通手机营业厅",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.sinovatech.unicom.basic.ui.activity.WelcomeClient@ID@com.sinovatech.unicom.ui:id/welcome_advertise_close@0",
+		"packageName": "com.sinovatech.unicom.ui"
+	},{
+		"enable": true,
+		"name": "腾讯视频",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@TEXT@跳过@0",
+		"packageName": "com.tencent.qqlive"
+	},{
+		"enable": true,
+		"name": "豆瓣",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@ID@com.douban.frodo:id/skip@0",
+		"packageName": "com.douban.frodo"
+	},{
+		"enable": true,
+		"name": "星火英语",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@android.widget.FrameLayout@ID@tuoyan.com.xinghuo_daying:id/tv_go_on@0",
+		"packageName": "tuoyan.com.xinghuo_daying"
+	},{
+		"enable": true,
+		"name": "拼多多",
+		"author": "Repobor",
+		"operaSize": 2,
+		"operas": "启动广告@1@com.xunmeng.pinduoduo.ui.activity.MainFrameActivity@TEXT@跳过 3@0$未登录跳过@1@com.xunmeng.pinduoduo.login.LoginActivity@TEXT@跳过@0",
+		"packageName": "com.xunmeng.pinduoduo"
+	},{
+		"enable": true,
+		"name": "淘宝",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.taobao.tao.welcome.Welcome@TEXT@跳过@0",
+		"packageName": "com.taobao.taobao"
+	},{
+		"enable": true,
+		"name": "网易有道词典",
+		"author": "Repobor",
+		"operaSize": 3,
+		"operas": "启动广告@1@com.youdao.dict.activity.DictSplashActivity@ID@com.youdao.dict:id/skin_text@0$推荐VIP@1@com.youdao.dict.vip.widget.VipBigPresentDailog@ID@com.youdao.dict:id/close@0$中间推荐@1@com.youdao.dict.activity.vipcenter.SimpleDialog@ID@com.youdao.dict:id/iv_close_bt@0",
+		"packageName": "com.youdao.dict"
+	},{
+		"enable": true,
+		"name": "学习通",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.chaoxing.mobile.activity.DoodleActivity@ID@com.chaoxing.mobile:id/jump_view@0",
+		"packageName": "com.chaoxing.mobile"
+	},{
+		"enable": true,
+		"name": "小米钱包",
+		"author": "Repobor",
+		"operaSize": 1,
+		"operas": "启动广告@1@com.mipay.wallet.ui.MipayEntryActivity@TEXT@跳过@0",
+		"packageName": "com.mipay.wallet"
 	}]
 }
