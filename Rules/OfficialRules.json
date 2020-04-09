@@ -74,13 +74,15 @@
 	}, {
 		"enable": true,
 		"name": "小黑盒",
-		"operaSize": 0,
+		"author": "Ryens",
+		"operaSize": 1,
 		"operas": "启动广告@1@com.max.xiaoheihe.SplashActivity@ID@com.max.xiaoheihe:id/ll_skip_ads@0",
 		"packageName": "com.max.xiaoheihe"
 	}, {
 		"enable": true,
 		"name": "异次元",
-		"operaSize": 0,
+		"author": "Ryens",
+		"operaSize": 1,
 		"operas": "启动广告@1@com.wsw.cospa.SplashActivity@TEXT@跳过@0",
 		"packageName": "com.wsw.cospa"
 	},{
