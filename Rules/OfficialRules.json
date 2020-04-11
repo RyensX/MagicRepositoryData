@@ -13,7 +13,7 @@
 		"name": "米游社",
 		"author": "Ryens",
 		"operaSize": 1,
-		"operas": "开屏广告@1@com.mihoyo.hyperion.ui.SplashActivity@TEXT@跳过@0",
+		"operas": "开屏广告@1@com.mihoyo.hyperion.ui.SplashActivity1@TEXT@跳过@0",
 		"packageName": "com.mihoyo.hyperion"
 	}, {
 		"enable": true,
